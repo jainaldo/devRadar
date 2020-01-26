@@ -1,5 +1,5 @@
 <h1 align="center">
-🚀 Semana OmniStack 10 - DevRadar
+🚀 DevRadar - Semana OmniStack 10
 </h1>
 
 <p align="center"> 🚀 DevRadar: Aplicação desenvolvida na 10° semana da Ominstack feito pela Rocketseat.</p>
@@ -19,13 +19,10 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
-
-<h1 align="center">
-  <img align="center" src="./static/mobile.jpg" alt="Omnistack 10 Mobile" width="300" height="600"></img>
-  <img align="center" src="./static/react.png" alt="Dev-Radar Web" width="700"></img>
-</h1>
-
 <br>
+<p align="center">
+  <img alt="Frontend" src="./static/devradar.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
